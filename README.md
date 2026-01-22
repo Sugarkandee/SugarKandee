@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U3MjFyczg1dzN0Y3hqYnpoNW5vNDh4YWZmaTQ5Mmh0c3h6Y2F2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LUwKDpXlXix9T6RH9x/giphy.gif" width="80%" />
+  <img src="https://giffiles.alphacoders.com/211/211265.gif" width="80%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Akshat Kashyap</h1>
